@@ -27,7 +27,7 @@
 710 Me.Label9.Text = "Version:" -- Версия
 724 Me.chkAssembly.Text = "Disabled" -- Выкл
 736 Me.btn_assemblyRandom.Text = "Randomize" -- Рандом
-765 Me.btn_assemblyClone.Text = "Clone File" -- Копировать файл
+765 Me.btn_assemblyClone.Text = "Clone File" -- Клонировать файл
 931 Me.TabPage4.Text = "Icon" -- Иконка
 945 Me.chkIcon.Text = "Disabled" -- Выкл
 983 Me.txtIconPath.Text = "Path to icon..." -- Путь до иконки
