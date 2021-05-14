@@ -12,7 +12,7 @@
 330 Me.TooltipHelper.SetToolTip(Me.Label28, "The time to wait before injecting... -- Время ожидания перед внедрением и запуском майнера. Иногда обходит некоторые антивирусы
 
 
-439 Me.TabPage1.Text = "Main" -- Основное
+439 Me.TabPage1.Text = "Main" -- Главное
 461 Me.Label10.Text = "For help please check the " -- Для получения дополнительной информации читайте 
 471 Me.Label5.Text = "Inject Into:" -- Внедрить в
 539 Me.Label6.Text = "Wallet Address/User:" -- Кошелёк Адрес/Пользователь:
@@ -40,7 +40,7 @@
 1297 Me.Label29.Text = "Seconds" -- cекунд
 1308 Me.Label30.Text = "Start Delay:" -- Задержка запуска
 
-
+// replace all "enabled" with "вкл" when there is no laziness
 ---
 
 216 Me.Label10.Text = "Run as Administrator:" -- Запуск от имени администратора
