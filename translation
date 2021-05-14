@@ -12,7 +12,7 @@
 330 Me.TooltipHelper.SetToolTip(Me.Label28, "The time to wait before injecting... -- Время ожидания перед внедрением и запуском майнера. Иногда обходит некоторые антивирусы
 
 
-439 Me.TabPage1.Text = "Main" -- Главное
+439 Me.TabPage1.Text = "Main" -- Главная
 461 Me.Label10.Text = "For help please check the " -- Для получения дополнительной информации читайте 
 471 Me.Label5.Text = "Inject Into:" -- Внедрить в
 539 Me.Label6.Text = "Wallet Address/User:" -- Кошелёк Адрес/Пользователь:
@@ -23,7 +23,7 @@
 621 Me.chkInstall.Text = "Disabled" -- Выкл
 648 Me.Label2.Text = "Save Path:" -- Путь распаковки
 658 Me.Label1.Text = "Filename:" -- Имя файла
-701 Me.TabPage3.Text = "Assembly" -- Сборка
+701 Me.TabPage3.Text = "Assembly" -- Описание
 710 Me.Label9.Text = "Version:" -- Версия
 724 Me.chkAssembly.Text = "Disabled" -- Выкл
 736 Me.btn_assemblyRandom.Text = "Randomize" -- Рандом
