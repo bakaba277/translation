@@ -32,7 +32,7 @@
 945 Me.chkIcon.Text = "Disabled" -- Выкл
 983 Me.txtIconPath.Text = "Path to icon..." -- Путь до иконки
 1025 Me.TabPage6.Text = "Mining" -- Майнер 
-1035 Me.MephButton1.Text = "Advanced Options" -- Продвинутые настройки
+1035 Me.MephButton1.Text = "Advanced Options" -- Дополнительные настройки
 1046 Me.Label27.Text = "Stealth:" -- Скрытность
 1058 
 1069 Me.Label24.Text = "Minutes" -- Минуты(а)
