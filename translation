@@ -35,9 +35,9 @@
 1035 Me.MephButton1.Text = "Advanced Options" -- Продвинутые настройки
 1046 Me.Label27.Text = "Stealth:" -- Скрытность
 1058 
-1069 Me.Label24.Text = "Minutes" -- Минуты
+1069 Me.Label24.Text = "Minutes" -- Минуты(а)
 1080 Me.Label23.Text = "Idle Wait:" -- Время 
-1297 Me.Label29.Text = "Seconds" -- cекунд
+1297 Me.Label29.Text = "Seconds" -- cекунд(а)
 1308 Me.Label30.Text = "Start Delay:" -- Задержка запуска
 
 // replace all "enabled" with "вкл" when there is no laziness
